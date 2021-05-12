@@ -35,7 +35,7 @@
         "@types/lodash": "4.14.149",
         "angular5-csv": "0.2.11",
         "bootstrap": "4.4.1",
-        "chart.js": "2.9.3",
+        "chart.js": "2.9.4",
         "core-js": "3.6.4",
         "d3": "5.15.0",
         "flexslider": "2.7.2",
